@@ -4,6 +4,20 @@
 
 # OWL
 ### This tool is a helper for hackers, which contains all kinds of dorks and .. inside it :)
+<p> This tool contains different parts, for example:
+payload generator
+which you can use to create payload with tools
+for example
+Metasploit
+PowerShell
+net cat
+use
+
+Or, for example, with the hashing part, you can hash a text with several algorithms
+
+And the dork part and.. that you know better
+</p>
+
 <br>
 
 # tool view
